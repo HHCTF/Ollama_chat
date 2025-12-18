@@ -5,3 +5,6 @@ after that you need to give execution permission to a script to let the AIs work
 Finally, you can run `~/GithubRepos/Ollama_chat./run_ollama_gui.sh`
 If you want you can to your bashrc or zshrc and add an alias to make it similar to open.
 Thank you for reading and using this script and I hope you find it useful like how I did!
+
+
+EDIT: 12/17/25 make sure to download the nessecary ollama models for this script to work. Required models: `ollama pull mistral:latest` `ollama pull dolpin-mixtral` (Dolphin Mixtral may take a long time to pull so beware.) `ollama pull llama3`
